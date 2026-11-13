@@ -1,0 +1,10 @@
+insert into staff (staff_id, first_name, last_name, job_title, staff_role, hire_date, phone, department_id) values (2001, 'Corbin', 'Wise', 'Doctor', 'Doctor', '8/1/2024', '982-382-7466', 9);
+insert into staff (staff_id, first_name, last_name, job_title, staff_role, hire_date, phone, department_id) values (2002, 'Jackie', 'Cramer', 'CEO', 'Support', '14/7/2015', '452-732-2946', 6);
+insert into staff (staff_id, first_name, last_name, job_title, staff_role, hire_date, phone, department_id) values (2003, 'Alaine', 'Pina', 'Doctor', 'Doctor', '15/11/2022', '213-940-6909', 8);
+insert into staff (staff_id, first_name, last_name, job_title, staff_role, hire_date, phone, department_id) values (2004, 'Amye', 'Jeacop', 'Office worker', 'Support', '13/3/2015', '369-630-7042', 1);
+insert into staff (staff_id, first_name, last_name, job_title, staff_role, hire_date, phone, department_id) values (2005, 'Kris', 'Wicken', 'Porter', 'Support', '22/12/2021', '952-637-1389', 3);
+insert into staff (staff_id, first_name, last_name, job_title, staff_role, hire_date, phone, department_id) values (2006, 'Winnifred', 'Whiterod', 'Nurse', 'Nurse', '25/6/2013', '366-461-3283', 9);
+insert into staff (staff_id, first_name, last_name, job_title, staff_role, hire_date, phone, department_id) values (2007, 'Elberta', 'di Rocca', 'Administrator', 'Support', '27/7/2022', '369-584-9354', 10);
+insert into staff (staff_id, first_name, last_name, job_title, staff_role, hire_date, phone, department_id) values (2008, 'Tricia', 'Ketcher', 'Doctor', 'Doctor', '29/7/2013', '149-529-3655', 2);
+insert into staff (staff_id, first_name, last_name, job_title, staff_role, hire_date, phone, department_id) values (2009, 'Erastus', 'Lenglet', 'Nurse', 'Nurse', '20/8/2018', '245-131-9159', 5);
+insert into staff (staff_id, first_name, last_name, job_title, staff_role, hire_date, phone, department_id) values (2010, 'Arney', 'Miskelly', 'CEO', 'Support', '8/6/2023', '524-254-3006', 1);

@@ -1,0 +1,10 @@
+insert into departments (department_id, name, phone, location) values (1, 'Radiology', '272-457-8367', 'Block G');
+insert into departments (department_id, name, phone, location) values (2, 'Dermatology', '826-870-7152', 'Block C');
+insert into departments (department_id, name, phone, location) values (3, 'Oncology', '791-240-3084', 'Block B');
+insert into departments (department_id, name, phone, location) values (4, 'ENT', '827-343-8008', 'Block C');
+insert into departments (department_id, name, phone, location) values (5, 'Pediatrics', '927-343-3801', 'Block J');
+insert into departments (department_id, name, phone, location) values (6, 'Cardiology', '310-341-9254', 'Block I');
+insert into departments (department_id, name, phone, location) values (7, 'Neurology', '602-581-2315', 'Block G');
+insert into departments (department_id, name, phone, location) values (8, 'Neurology', '761-215-7928', 'Block G');
+insert into departments (department_id, name, phone, location) values (9, 'Oncology', '749-788-9030', 'Block I');
+insert into departments (department_id, name, phone, location) values (10, 'Oncology', '267-900-3817', 'Block I');
